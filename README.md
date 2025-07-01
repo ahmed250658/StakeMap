@@ -1,6 +1,5 @@
 # 🗺️ StakeMap - Stakeholder Mapping Tool
 
-![StakeMap Screenshot](https://via.placeholder.com/800x400?text=StakeMap+Interface) *<!-- Replace with actual screenshot -->*
 
 A dynamic visualization tool for identifying and analyzing project stakeholders and their relationships.
 
