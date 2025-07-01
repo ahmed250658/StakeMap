@@ -12,7 +12,7 @@ A dynamic visualization tool for identifying and analyzing project stakeholders 
 
 ## 🛠️ Tech Stack
 ### Core
-- ASP.NET Core 6 Web API
+- ASP.NET Core 7 Web API
 - Entity Framework Core
 - SQL Server
   
